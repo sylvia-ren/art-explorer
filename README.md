@@ -1,7 +1,12 @@
-# How to configure Art Explorer 
+# Art Explorer
+
+Explore and discover art from the Metropolitan Museum of Art through the Art Explorer API, which allows you to search for artworks, view details, and access curated art data programmatically.
+
+## How to configure Art Explorer 
 
 In the terminal, enter the following commands:
-cd projet_final 2 2   //
+cd projet_final 2 2   
+
 cd art-explorer
 
 Then enter:
@@ -11,13 +16,10 @@ Answer “Yes” to the question asked by pressing y.
 
 The application will open in a new browser tab.
 
-# Functionalities
+## Functionalities
 
-Application features, explained in the video:
 [![Watch the demo](https://img.youtube.com/vi/4ANiWqcAoBM/0.jpg)](https://youtu.be/4ANiWqcAoBM)
 
-
-Explanatory video at the following link:
 
 Artwork search: Users can search for artworks from the Metropolitan Museum using keywords.
 
