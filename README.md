@@ -14,7 +14,7 @@ The application will open in a new browser tab.
 # Functionalities
 
 Application features, explained in the video:
-<video src="joy 2025-05-05 02.15.25.mp4" controls width="600"></video>
+<video src="video.mp4" controls width="600"></video>
 
 Explanatory video at the following link:
 
