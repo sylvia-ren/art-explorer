@@ -11,7 +11,7 @@ Answer “Yes” to the question asked by pressing y.
 
 The application will open in a new browser tab.
 
-# Fonctionnalities 
+# Functionalities
 
 Application features, explained in the video:
 Explanatory video at the following link:
