@@ -1,21 +1,25 @@
-# Utilisation de Art Explorer
+# How to configure Art Explorer 
 
-Dans le terminal, rentrez les commandes suivantes : 
+In the terminal, enter the following commands:
 cd projet_final 2 2
 cd art-explorer
 
-Entrez ensuite :
+Then enter:
 npm start
 
-Répondez 'Yes' à la question posée en appuyant sur 'y'
+Answer “Yes” to the question asked by pressing y.
 
-L'application s'ouvre sur une nouvelle page de navigateur 
+The application will open in a new browser tab.
 
-# Fonctionnalités de l'application, détaillées dans la vidéo :
+# Fonctionnalities 
 
-Vidéo explicative au lien suivant : 
+Application features, explained in the video:
+Explanatory video at the following link:
 
-Recherche d'œuvres d'art : Les utilisateurs peuvent rechercher des œuvres d'art du Metropolitan Museum par mots-clés.
-Affichage des résultats : Les œuvres sont affichées sous forme de grille avec des aperçus.
-Détails des œuvres : Les utilisateurs peuvent cliquer sur une œuvre pour voir plus de détails.
-Visualisation des données : Un graphique en camembert montre la répartition des œuvres par département.
+Artwork search: Users can search for artworks from the Metropolitan Museum using keywords.
+
+Results display: The artworks are shown in a grid with previews.
+
+Artwork details: Users can click on an artwork to view more detailed information.
+
+Data visualization: A pie chart shows the distribution of artworks by department.
