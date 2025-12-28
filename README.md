@@ -1,7 +1,7 @@
 # How to configure Art Explorer 
 
 In the terminal, enter the following commands:
-cd projet_final 2 2
+cd projet_final 2 2   //
 cd art-explorer
 
 Then enter:
@@ -14,7 +14,8 @@ The application will open in a new browser tab.
 # Functionalities
 
 Application features, explained in the video:
-<video src="video.mp4" controls width="600"></video>
+[![Watch the demo](https://img.youtube.com/vi/4ANiWqcAoBM/0.jpg)](https://youtu.be/4ANiWqcAoBM)
+
 
 Explanatory video at the following link:
 
